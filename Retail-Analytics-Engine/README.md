@@ -17,6 +17,8 @@
 
 ---
 
+Link=https://ai-data-science06.streamlit.app/
+
 ## 🌟 Project Overview
 
 **Retail Analytics Engine** is a data science and machine learning project built around **Walmart retail sales data**.
@@ -90,29 +92,7 @@ The system provides important business KPIs such as:
 * 💵 Profit Margin
 * 🏪 Branch Performance
 
-Example:
 
-```text
-┌──────────────────┐
-│   TOTAL SALES    │
-│     ₹XXXXXX      │
-└──────────────────┘
-
-┌──────────────────┐
-│ TOTAL QUANTITY   │
-│      XXXXX       │
-└──────────────────┘
-
-┌──────────────────┐
-│ AVG. RATING      │
-│       X.X        │
-└──────────────────┘
-
-┌──────────────────┐
-│ TRANSACTIONS     │
-│      XXXXX       │
-└──────────────────┘
-```
 
 ---
 
