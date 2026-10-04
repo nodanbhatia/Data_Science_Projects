@@ -74,13 +74,6 @@ flowchart TD
 5. **Rank Results:** Sort similarity scores and exclude the selected movie itself.
 6. **Show Recommendations:** Display the five most similar movies.
 
-## 🖥️ Application Preview
-
-<p align="center">
-  <img src="https://placehold.co/900x450/101827/FFFFFF?text=MovieMatch%20%7C%20Movie%20Recommendation%20Dashboard" alt="MovieMatch dashboard preview" width="90%"/>
-</p>
-
-> 📸 Replace this placeholder with a real screenshot of your running Streamlit application for a stronger GitHub portfolio.
 
 ## 📁 Project Structure
 
